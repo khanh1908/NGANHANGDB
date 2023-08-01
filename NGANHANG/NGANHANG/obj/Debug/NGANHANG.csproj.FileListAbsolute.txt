@@ -1,0 +1,494 @@
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\NGANHANG.exe.config
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\NGANHANG.exe
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\NGANHANG.pdb
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.BonusSkins.v22.1.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.Data.v22.1.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.Utils.v22.1.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraBars.v22.1.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.Data.v22.1.xml
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.Utils.v22.1.xml
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraBars.v22.1.xml
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\obj\Debug\NGANHANG.csproj.AssemblyReference.cache
+D:\C#\WinForm\NGANHANG\NGANHANG\obj\Debug\NGANHANG.csproj.SuggestedBindingRedirects.cache
+D:\C#\WinForm\NGANHANG\NGANHANG\obj\Debug\NGANHANG.Properties.Resources.resources
+D:\C#\WinForm\NGANHANG\NGANHANG\obj\Debug\NGANHANG.csproj.GenerateResource.cache
+D:\C#\WinForm\NGANHANG\NGANHANG\obj\Debug\NGANHANG.exe.licenses
+D:\C#\WinForm\NGANHANG\NGANHANG\obj\Debug\NGANHANG.csproj.CoreCompileInputs.cache
+D:\C#\WinForm\NGANHANG\NGANHANG\obj\Debug\NGANHANG.csproj.CopyComplete
+D:\C#\WinForm\NGANHANG\NGANHANG\obj\Debug\NGANHANG.exe
+D:\C#\WinForm\NGANHANG\NGANHANG\obj\Debug\NGANHANG.pdb
+D:\C#\WinForm\NGANHANG\NGANHANG\obj\Debug\NGANHANG.FormMain.resources
+D:\C#\WinForm\NGANHANG\NGANHANG\obj\Debug\NGANHANG.FormLogin.resources
+D:\C#\WinForm\NGANHANG\NGANHANG\obj\Debug\NGANHANG.FormNhanVien.resources
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.Office.v22.1.Core.xml
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\obj\Debug\NGANHANG.FormKhachHang.resources
+D:\C#\WinForm\NGANHANG\NGANHANG\obj\Debug\NGANHANG.FormMoTK.resources
+D:\C#\WinForm\NGANHANG\NGANHANG\obj\Debug\NGANHANG.FormGuiRut.resources
+D:\C#\WinForm\NGANHANG\NGANHANG\obj\Debug\NGANHANG.FormChuyenTien.resources
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraRichEdit.v22.1.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.DataVisualization.v22.1.Core.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.DataAccess.v22.1.UI.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraNavBar.v22.1.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraCharts.v22.1.Wizard.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraPivotGrid.v22.1.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraCharts.v22.1.Extensions.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.Images.v22.1.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraDiagram.v22.1.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.Diagram.v22.1.Core.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.Charts.v22.1.Core.xml
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.DataAccess.v22.1.xml
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.PivotGrid.v22.1.Core.xml
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.Utils.v22.1.UI.xml
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.Xpo.v22.1.xml
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraCharts.v22.1.xml
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraGauges.v22.1.Core.xml
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraReports.v22.1.xml
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraReports.v22.1.Extensions.xml
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraRichEdit.v22.1.xml
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.xml
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.DataAccess.v22.1.UI.xml
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraNavBar.v22.1.xml
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraCharts.v22.1.Wizard.xml
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraPivotGrid.v22.1.xml
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraDiagram.v22.1.xml
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\DevExpress.Diagram.v22.1.Core.xml
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.DataAccess.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.DataAccess.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.DataAccess.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.PivotGrid.v22.1.Core.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.PivotGrid.v22.1.Core.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.PivotGrid.v22.1.Core.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.Utils.v22.1.UI.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.Utils.v22.1.UI.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.Utils.v22.1.UI.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.Xpo.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.Xpo.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.Xpo.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraCharts.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraCharts.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraCharts.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraGauges.v22.1.Core.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraGauges.v22.1.Core.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraGauges.v22.1.Core.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraReports.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraReports.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraReports.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraRichEdit.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraRichEdit.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraRichEdit.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.DataAccess.v22.1.UI.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.DataAccess.v22.1.UI.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.DataAccess.v22.1.UI.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraNavBar.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraNavBar.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraNavBar.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraPivotGrid.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraPivotGrid.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraPivotGrid.v22.1.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.Diagram.v22.1.Core.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.Diagram.v22.1.Core.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.Diagram.v22.1.Core.resources.dll
+D:\C#\WinForm\NGANHANG\NGANHANG\obj\Debug\NGANHANG.FormTKKH.resources
+D:\C#\WinForm\NGANHANG\NGANHANG\obj\Debug\NGANHANG.XR_LietKeKhachHang.resources
+D:\C#\WinForm\NGANHANG\NGANHANG\obj\Debug\NGANHANG.exe.config
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\NGANHANG.exe.config
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\NGANHANG.exe
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\NGANHANG.pdb
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.BonusSkins.v22.1.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.Charts.v22.1.Core.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.CodeParser.v22.1.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.DataAccess.v22.1.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.Office.v22.1.Core.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.PivotGrid.v22.1.Core.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.RichEdit.v22.1.Export.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.Utils.v22.1.UI.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.Xpo.v22.1.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraCharts.v22.1.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraGauges.v22.1.Core.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraReports.v22.1.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraReports.v22.1.Extensions.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraRichEdit.v22.1.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.DataVisualization.v22.1.Core.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.DataAccess.v22.1.UI.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraNavBar.v22.1.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraCharts.v22.1.Wizard.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraPivotGrid.v22.1.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraCharts.v22.1.Extensions.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.Images.v22.1.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraDiagram.v22.1.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.Diagram.v22.1.Core.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.Charts.v22.1.Core.xml
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.DataAccess.v22.1.xml
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.PivotGrid.v22.1.Core.xml
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.Utils.v22.1.UI.xml
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.Xpo.v22.1.xml
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraCharts.v22.1.xml
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraGauges.v22.1.Core.xml
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraReports.v22.1.xml
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraReports.v22.1.Extensions.xml
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraRichEdit.v22.1.xml
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.xml
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.DataAccess.v22.1.UI.xml
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraNavBar.v22.1.xml
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraCharts.v22.1.Wizard.xml
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraPivotGrid.v22.1.xml
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraDiagram.v22.1.xml
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\DevExpress.Diagram.v22.1.Core.xml
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\obj\Debug\NGANHANG.csproj.AssemblyReference.cache
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\obj\Debug\NGANHANG.csproj.SuggestedBindingRedirects.cache
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\obj\Debug\NGANHANG.FormChuyenTien.resources
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\obj\Debug\NGANHANG.FormGuiRut.resources
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\obj\Debug\NGANHANG.FormKhachHang.resources
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\obj\Debug\NGANHANG.FormLogin.resources
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\obj\Debug\NGANHANG.FormMain.resources
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\obj\Debug\NGANHANG.FormMoTK.resources
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\obj\Debug\NGANHANG.FormNhanVien.resources
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\obj\Debug\NGANHANG.FormTKKH.resources
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\obj\Debug\NGANHANG.Properties.Resources.resources
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\obj\Debug\NGANHANG.XR_LietKeKhachHang.resources
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\obj\Debug\NGANHANG.csproj.GenerateResource.cache
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\obj\Debug\NGANHANG.exe.licenses
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\obj\Debug\NGANHANG.csproj.CoreCompileInputs.cache
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\obj\Debug\NGANHANG.csproj.CopyComplete
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\obj\Debug\NGANHANG.exe
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\obj\Debug\NGANHANG.pdb
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\obj\Debug\NGANHANG.FormTaoTaiKhoan.resources
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\obj\Debug\NGANHANG.FormTKTK.resources
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\obj\Debug\NGANHANG.XR_LietKeTaiKhoan.resources
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\obj\Debug\NGANHANG.FormSaokeGD.resources
+C:\Users\DevEx\Downloads\Documents\NGANHANG\NGANHANG\obj\Debug\NGANHANG.XR_SaoKeGD.resources
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\NGANHANG.exe.config
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\NGANHANG.exe
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\NGANHANG.pdb
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraRichEdit.v22.1.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.DataVisualization.v22.1.Core.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.DataAccess.v22.1.UI.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraNavBar.v22.1.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraCharts.v22.1.Wizard.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraPivotGrid.v22.1.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraCharts.v22.1.Extensions.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.Images.v22.1.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraDiagram.v22.1.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.Diagram.v22.1.Core.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.Charts.v22.1.Core.xml
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.DataAccess.v22.1.xml
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.PivotGrid.v22.1.Core.xml
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.Utils.v22.1.UI.xml
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.Xpo.v22.1.xml
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraCharts.v22.1.xml
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraGauges.v22.1.Core.xml
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraReports.v22.1.xml
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraReports.v22.1.Extensions.xml
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraRichEdit.v22.1.xml
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraVerticalGrid.v22.1.xml
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.DataAccess.v22.1.UI.xml
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraNavBar.v22.1.xml
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraCharts.v22.1.Wizard.xml
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraPivotGrid.v22.1.xml
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.XtraDiagram.v22.1.xml
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\DevExpress.Diagram.v22.1.Core.xml
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.DataAccess.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.PivotGrid.v22.1.Core.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.Utils.v22.1.UI.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.Xpo.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraCharts.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraGauges.v22.1.Core.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraReports.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraReports.v22.1.Extensions.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraRichEdit.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraVerticalGrid.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.DataAccess.v22.1.UI.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraNavBar.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraCharts.v22.1.Wizard.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.XtraPivotGrid.v22.1.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\de\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\es\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\bin\Debug\ja\DevExpress.Diagram.v22.1.Core.resources.dll
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\obj\Debug\NGANHANG.csproj.AssemblyReference.cache
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\obj\Debug\NGANHANG.FormChuyenTien.resources
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\obj\Debug\NGANHANG.FormGuiRut.resources
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\obj\Debug\NGANHANG.FormKhachHang.resources
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\obj\Debug\NGANHANG.FormLogin.resources
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\obj\Debug\NGANHANG.FormMain.resources
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\obj\Debug\NGANHANG.FormMoTK.resources
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\obj\Debug\NGANHANG.FormNhanVien.resources
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\obj\Debug\NGANHANG.FormSaokeGD.resources
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\obj\Debug\NGANHANG.FormTaoTaiKhoan.resources
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\obj\Debug\NGANHANG.FormTKKH.resources
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\obj\Debug\NGANHANG.FormTKTK.resources
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\obj\Debug\NGANHANG.Properties.Resources.resources
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\obj\Debug\NGANHANG.XR_LietKeKhachHang.resources
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\obj\Debug\NGANHANG.XR_LietKeTaiKhoan.resources
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\obj\Debug\NGANHANG.XR_SaoKeGD.resources
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\obj\Debug\NGANHANG.csproj.GenerateResource.cache
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\obj\Debug\NGANHANG.exe.licenses
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\obj\Debug\NGANHANG.csproj.CoreCompileInputs.cache
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\obj\Debug\NGANHANG.csproj.CopyComplete
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\obj\Debug\NGANHANG.exe
+C:\Users\Thi Binh\Downloads\NganHangDTB\NganHangDTB\NGANHANG\NGANHANG\obj\Debug\NGANHANG.pdb
